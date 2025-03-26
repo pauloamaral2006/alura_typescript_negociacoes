@@ -31,7 +31,7 @@
 
 ## 🧑‍🏫 Instrutor(es)
 
-| [<img loading="lazy" src="https://www.gravatar.com/avatar/8d96063c612c7c23fd0ced5142c8a9aa.png?r=PG&size=100x100&date=2025-03-26&d=https%3A%2F%2Fcursos.alura.com.br%2Fassets%2Fimages%2Fforum%2Favatar_f.png" width=115><br><sub>Flavio Henrique de Souza Almeida</sub>](https://www.linkedin.com/404/) |
+| [<img loading="lazy" src="https://www.gravatar.com/avatar/8d96063c612c7c23fd0ced5142c8a9aa.png?r=PG&size=100x100&date=2025-03-26&d=https%3A%2F%2Fcursos.alura.com.br%2Fassets%2Fimages%2Fforum%2Favatar_f.png" width=115><br><sub>Flavio Henrique de Souza Almeida</sub>](https://www.linkedin.com/in/fl%C3%A1vio-henrique-almeida-a6315747/) |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 ## 💻 Screenshot
