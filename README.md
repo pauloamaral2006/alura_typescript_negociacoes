@@ -14,6 +14,13 @@
 - Modelar classes utilizando o que há de melhor na linguagem
 - Aprender a utilizar tipos, modificadores e outros recursos
 
+### TypeScript parte 2: avançando na linguagem
+
+- Aprender a utilizar modificadores de acesso, herança e tipos genéricos
+- Entender o papel das Enumerations
+- Criar um mini framework de atualização de view inspirado no JSX
+- Configurar ainda mais seu compilador TS e tire máximo proveito do seu código
+
 ## 🖥️ Tecnologias
 
 <div>
